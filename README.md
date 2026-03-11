@@ -55,7 +55,7 @@ This dashboard will aggregate NFT utilities and display them in a **simple and u
 ## Contributors
 
 - **Ghost** – Product Lead / Community Manager  
-- **[Developer Partner Name]** – Blockchain Developer
+- **Abraham** – Blockchain Developer
 
 ---
 
