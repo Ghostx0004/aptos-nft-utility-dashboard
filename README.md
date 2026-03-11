@@ -1,7 +1,7 @@
 # Aptos NFT Utility Dashboard
 
 **Project Overview**  
-The Aptos NFT Utility Dashboard is designed to help NFT holders easily track and interact with the utilities tied to their NFTs across the Aptos ecosystem—all in one place.
+The Aptos NFT Utility Dashboard is designed to help NFT holders easily track and interact with the utilities tied to their NFTs across the Aptos ecosystem, all in one place.
 
 Many NFT collections on Aptos offer utilities such as staking rewards, farming opportunities, whitelist access, and community perks. However, these benefits are often spread across multiple platforms, making it difficult for users to monitor and claim rewards efficiently.
 
